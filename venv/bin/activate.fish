@@ -33,7 +33,11 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
+<<<<<<< HEAD
 set -gx VIRTUAL_ENV "/home/diego/azure/venv"
+=======
+set -gx VIRTUAL_ENV "/home/diego/mi-proyecto/venv"
+>>>>>>> origin/master
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

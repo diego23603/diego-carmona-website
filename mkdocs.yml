@@ -1,0 +1,7 @@
+site_name: 'Diego Carmona - Curriculum Deportivo'
+
+nav:
+  - Home: index.md
+  - Perfil: profile.md
+
+
