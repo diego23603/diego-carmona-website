@@ -1,3 +1,0 @@
-# Perfil
-
-Diego Carmona es un jinete profesional de concurso completo de equitación con más de 10 años de experiencia...
